@@ -1,0 +1,4 @@
+<div>
+  This plugin accepts submissions from chef_handler_jenkins and
+  tracks how files are getting deployed.
+</div>
