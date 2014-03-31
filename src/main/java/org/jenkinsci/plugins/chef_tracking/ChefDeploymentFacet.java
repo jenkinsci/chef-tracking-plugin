@@ -1,4 +1,4 @@
-package org.jenkinsci.plugins.chef_tracking.track;
+package org.jenkinsci.plugins.chef_tracking;
 
 import hudson.model.Fingerprint;
 import org.jenkinsci.plugins.deployment.DeploymentFacet;

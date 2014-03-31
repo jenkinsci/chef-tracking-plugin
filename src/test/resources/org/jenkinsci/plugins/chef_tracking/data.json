@@ -1,0 +1,18 @@
+{
+  "end_time":"Mon, 31 Mar 2014 09:15:20 -0700",
+  "start_time":"Mon, 31 Mar 2014 09:15:20 -0700",
+  "environment":"_default",
+  "node":"elf",
+  "updates":[
+    {
+      "md5":"b1946ac92492d2347c6235b4d2611184",
+      "path":"/tmp/foo.txt",
+      "type":"Chef::Resource::CookbookFile",
+      "action":"create"
+    }, {
+      "md5":"6eb5e6797c1cb7e2b63c94fcbc5f93e7",
+      "path":"/tmp/bar.txt",
+      "type":"Chef::Resource::SaladJenkinsTracking"
+    }
+  ]
+}
